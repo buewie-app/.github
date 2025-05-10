@@ -6,7 +6,7 @@ Willkommen auf dem offiziellen Github des Gymbw-Appteams
 
 ## aktuelle Mitwirkende
 
-- [@Sxcptix](https://github.com/Scxptix)
+- [@flomtz](https://github.com/flomtz)
 - [@rnboo](https://github.com/rnboo)
 - [@LosMeisos](https://github.com/LosMeisos)
 
